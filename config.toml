@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'MELTITA'
+theme = "ananke"
+featured_image='/images/gohugo-default-sample-hero-image.jpg'
+SectionPagesMenu = "main"
+[params]
+  date_format = "2. January 2006"
