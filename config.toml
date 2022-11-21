@@ -1,8 +1,19 @@
 baseURL = 'https://meltita.github.io/'
-languageCode = 'en-us'
-title = 'MELTITA'
+languageCode = 'en-US'
+title = 'Meltita'
 theme = "ananke"
 featured_image='/images/gohugo-default-sample-hero-image.jpg'
 SectionPagesMenu = "main"
+defaultContentLanguage = "en"
 [params]
   date_format = "2. January 2006"
+
+[languages]
+  [languages.en]
+    title = "Meltita"
+    weight = 2
+    contentDir = "content/en"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/realDonaldTrump"     
