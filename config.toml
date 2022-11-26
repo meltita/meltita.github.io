@@ -3,17 +3,52 @@ languageCode = 'en-US'
 title = 'Meltita'
 theme = "ananke"
 featured_image='/images/gohugo-default-sample-hero-image.jpg'
-SectionPagesMenu = "main"
 defaultContentLanguage = "en"
-[params]
-  date_format = "2. January 2006"
 
 [languages]
   [languages.en]
     title = "Meltita"
     weight = 2
     contentDir = "content/en"
+  [languages.lt]
+    title = "Meltita"
+    weight = 3
+    contentDir = "content/lt"    
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/realDonaldTrump"     
+name = "facebook"
+url = "https://www.facebook.com/apple/"
+disable_share = true
+
+[params]
+  date_format = "2. January 2006"
+  recent_posts_number = 3
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  title = 'About'
+  url = '../about/'
+  weight = 1  
+
+[[menu.main]]
+  identifier = 'contacts'
+  name = 'Contacts'
+  title = 'Contacts'
+  url = '../contacts/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'rate'
+  name = 'Request Rate'
+  title = 'Request Rate'
+  url = '../request-rate/'
+  weight = 3
+
+[[menu.main]]
+  identifier = 'services'
+  name = 'Services'
+  title = 'Services'
+  url = '../services/'
+  weight = 3

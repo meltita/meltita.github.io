@@ -2,6 +2,7 @@
 title: "Railway transport"
 date: 2022-11-12T08:44:36+02:00
 draft: true
+layout: "mylayout"
 featured_image: '/images/jakub-nawrot-BZniToCLh7o-unsplash.jpg'
 ---
 
