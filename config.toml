@@ -3,7 +3,7 @@ languageCode = 'en-US'
 title = 'Meltita'
 theme = "ananke"
 featured_image='/images/gohugo-default-sample-hero-image.jpg'
-defaultContentLanguage = "en"
+defaultContentLanguage = "lt"
 
 [languages]
   [languages.en]
