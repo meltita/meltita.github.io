@@ -9,11 +9,42 @@ defaultContentLanguage = "lt"
   [languages.en]
     title = "Meltita"
     weight = 2
-    contentDir = "content/en"
-  [languages.lt]
-    title = "Meltita"
-    weight = 3
-    contentDir = "content/lt"    
+[[languages.en.menu.main]]
+name = "Contacts"
+url = "/contacts"
+weight = 3
+[[languages.en.menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+[[languages.en.menu.main]]
+name = "Request Rate"
+url = "/request-rate"
+weight = 4
+[[languages.en.menu.main]]
+name = "Services"
+url = "/services"
+weight = 5
+
+[languages.lt]
+  title = "Meltita"
+  weight = 3
+[[languages.lt.menu.main]]
+name = "Kontaktai"
+url = "/contacts"
+weight = 3
+[[languages.lt.menu.main]]
+name = "Apie"
+url = "/about"
+weight = 2
+[[languages.lt.menu.main]]
+name = "Užklausos norma"
+url = "/request-rate"
+weight = 4
+[[languages.lt.menu.main]]
+name = "Paslaugos"
+url = "/services"
+weight = 5
 
 [[params.ananke_socials]]
 name = "facebook"
@@ -22,33 +53,4 @@ disable_share = true
 
 [params]
   date_format = "2. January 2006"
-  recent_posts_number = 3
-
-[menu]
-[[menu.main]]
-  identifier = 'about'
-  name = 'About'
-  title = 'About'
-  url = '../about/'
-  weight = 1  
-
-[[menu.main]]
-  identifier = 'contacts'
-  name = 'Contacts'
-  title = 'Contacts'
-  url = '../contacts/'
-  weight = 2
-
-[[menu.main]]
-  identifier = 'rate'
-  name = 'Request Rate'
-  title = 'Request Rate'
-  url = '../request-rate/'
-  weight = 3
-
-[[menu.main]]
-  identifier = 'services'
-  name = 'Services'
-  title = 'Services'
-  url = '../services/'
-  weight = 3
+  recent_posts_number = 8
