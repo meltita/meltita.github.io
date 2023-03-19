@@ -10,7 +10,7 @@ Mes siūlome visapusiškus logistikos sprendimus, kuriuos lemia aukšto lygio at
 
 ## Krovinių gabenimas oro transportu
 
-![Air freight](../images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
+![Air freight](images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
 
 Krovinių gabenimas oro transportu gali suteikti jūsų verslui keletą pagrindinių pranašumų. Greitis yra pats didžiausias
 akivaizdus vienas. Krovinių gabenimas oro transportu yra greičiausias būdas pristatyti jūsų krovinį į reikiamą vietą
@@ -22,7 +22,7 @@ teikti savo klientams išsamius sprendimus, kaip valdyti jų tiekimo grandines
 
 ## Krovinių gabenimas geležinkeliais
 
-![Rail freight](../images/stock-vector-train-with-cargo-wagons-cisterns-tanks-and-cars-railroad-freight-collection-nature-landscape-1969610179.jpg)
+![Rail freight](images/stock-vector-train-with-cargo-wagons-cisterns-tanks-and-cars-railroad-freight-collection-nature-landscape-1969610179.jpg)
 
 Geležinkelis yra viena iš patikimiausių transporto rūšių. Jis gali būti naudojamas
 visų rūšių krovinių pervežimas bet kokiomis oro sąlygomis. Geležinkelio transportas yra
@@ -36,7 +36,7 @@ bėgiu specialiuose konteineriniuose traukiniuose.
 
 ## Krovinių gabenimas vandenynu
 
-![Ocean freight](../images/stock-vector-marine-port-shipping-transportation-and-ocean-logistic-flat-banner-cargo-ships-and-freight-1542787196.jpg)
+![Ocean freight](images/stock-vector-marine-port-shipping-transportation-and-ocean-logistic-flat-banner-cargo-ships-and-freight-1542787196.jpg)
 
 Jūrų krovinių logistika nuėjo ilgą kelią nuo pirmųjų jūrų laivybos dienų
 transporto. Prekių pristatymas laivu yra vienas seniausių ir ekonomiškiausių
@@ -48,7 +48,7 @@ pasikliauti jūrų krovinių ekspedijavimu.
 
 ## Multimodalinis krovinių gabenimas
 
-![Multimodal freight](../images/stock-photo-global-logistics-network-flat-isometric-illustration-set-of-air-cargo-trucking-rail-transportation-1057424468.jpg)
+![Multimodal freight](images/stock-photo-global-logistics-network-flat-isometric-illustration-set-of-air-cargo-trucking-rail-transportation-1057424468.jpg)
 
 Multimodaliniai kroviniai išnaudoja įvairių krovinių rūšių derinimo privalumus
 transportuoti ir naudotis visomis logistikos infrastruktūromis (terminalais,
@@ -60,7 +60,7 @@ krovinys.
 
 ## Krovinių gabenimas
 
-![Trucking](../images/stock-vector-cargo-trucks-are-running-on-the-highway-with-traffic-signs-2164401863.jpg)
+![Trucking](images/stock-vector-cargo-trucks-are-running-on-the-highway-with-traffic-signs-2164401863.jpg)
 
 Tarptautinis kelių transportas yra universaliausias ir efektyviausias pervežimo būdas
 bet kokio tipo krovinius: negabaritinius, pavojingus, vertingus ir net greitai gendančius. Ačiū
