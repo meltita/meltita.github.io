@@ -8,6 +8,6 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+370 623 21708](tel:+37062321708)
 
-{{<icon class="fa fa-envelope">}}&nbsp;Perkūnkiemio g. 13-91, LT-12114, Vilnius, Lithuania
+{{<icon class="fa fa-envelope">}} MELTITA, UAB
 
-Let us get in touch!
+Metalo str. 9, LT-02190 Vilnius, Lithuania
