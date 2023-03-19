@@ -1,10 +1,10 @@
 ---
-title: "Krovinių gabenimas geležinkeliu"
+title: "Geležinkeliu transportas"
 weight: 4
 header_menu: false
 ---
 
-![Krovinių gabenimas geležinkeliu](images/stock-vector-train-with-cargo-wagons-cisterns-tanks-and-cars-railroad-freight-collection-nature-landscape-1969610179.jpg)
+![Geležinkeliu transportas](images/stock-vector-train-with-cargo-wagons-cisterns-tanks-and-cars-railroad-freight-collection-nature-landscape-1969610179.jpg)
 
 Geležinkelis yra viena iš patikimiausių transporto rūšių.
 

@@ -1,5 +1,5 @@
 ---
-title: "Multimodalinis krovinių gabenimas"
+title: "Multimodaliniai pervežimai"
 weight: 6
 header_menu: false
 ---

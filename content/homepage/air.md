@@ -1,10 +1,10 @@
 ---
-title: "Krovinių gabenimas oro transportu"
+title: "Oro transportas"
 weight: 3
 header_menu: false
 ---
 
-![Krovinių gabenimas oro transportu](images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
+![oro transportas](images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
 
 Krovinių gabenimas oro transportu gali suteikti jūsų verslui keletą pagrindinių pranašumų. Greitis yra akivaizdžiausias.
 

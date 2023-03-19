@@ -1,10 +1,10 @@
 ---
-title: "Krovinių gabenimas vandenynu"
+title: "Jūrų transportas"
 weight: 5
 header_menu: false
 ---
 
-![Krovinių gabenimas vandenynu](images/stock-vector-marine-port-shipping-transportation-and-ocean-logistic-flat-banner-cargo-ships-and-freight-1542787196.jpg)
+![Jūrų transportas](images/stock-vector-marine-port-shipping-transportation-and-ocean-logistic-flat-banner-cargo-ships-and-freight-1542787196.jpg)
 
 Jūrų krovinių logistika nuėjo ilgą kelią nuo pirmųjų jūrų laivybos dienų
 transporto.

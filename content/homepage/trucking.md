@@ -1,10 +1,10 @@
 ---
-title: "Krovinių gabenimas"
+title: "Kelių transportas"
 weight: 7
 header_menu: false
 ---
 
-![Krovinių gabenimas](images/stock-vector-cargo-trucks-are-running-on-the-highway-with-traffic-signs-2164401863.jpg)
+![Kelių transportas](images/stock-vector-cargo-trucks-are-running-on-the-highway-with-traffic-signs-2164401863.jpg)
 
 Tarptautinis kelių transportas yra universaliausias ir efektyviausias bet kokio tipo krovinių pervežimo būdas: negabaritinių, pavojingų, vertingų ir net greitai gendančių.
 
