@@ -14,4 +14,4 @@ We arrange shipments of various degree of complexity by different means of
 transport and deliver goods to and from almost any part of the World.
 
 Careful attitude towards our partners, clients and their cargo is one of our top
-priories.
+priorities.

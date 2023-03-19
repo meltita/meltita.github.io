@@ -9,7 +9,7 @@ defaultContentLanguage = "lt"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Meltita - We arrange shipments"
+title = "Meltita"
 
 [languages]
 [languages.en]
@@ -45,13 +45,13 @@ copyright = "© Meltita"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "MELTITA - We arrange shipments"
+    title = "Meltita"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "We arrange shipments"
+    description = "International cargo transportation by all modes of transport"
 
     [params.meta]
-        keywords = "shipping company, logistical solutions"
+        keywords = "international cargo, shipping company, logistical solutions"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.

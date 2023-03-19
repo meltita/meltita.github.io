@@ -1,7 +1,7 @@
 ---
 title: "Insurance"
-weight: 3
-header_menu: true
+weight: 8
+header_menu: false
 ---
 
 ![Insurance](../images/stock-vector-shipwreck-of-cargo-ship-vessel-sinking-in-ocean-with-goods-containers-going-under-water-surface-on-1539104057.jpg)

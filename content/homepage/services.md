@@ -68,3 +68,17 @@ Ilgą laiką bendradarbiaudami su daugybe sunkvežimių vežėjų pristatome įv
 konsoliduoti kroviniai (Lt) ir pilni sunkvežimių kroviniai (FTL) į ir iš Vakarų ir Centrinio
 Europa, Skandinavija, Turkija ir kitos Artimųjų Rytų, NVS ir Baltijos šalys
 teigia.
+
+---
+
+## Draudimas
+
+![Insurance](images/stock-vector-shipwreck-of-cargo-ship-vessel-sinking-in-ocean-with-goods-containers-going-under-water-surface-on-1539104057.jpg)
+
+Savo klientams visada rekomenduojame įsigyti transporto draudimą, kurį
+garantuoti galimų krovinio nuostolių ir sugadinimų atlyginimą.
+
+Naudojamės pirmaujančių draudimo paslaugų teikėjų paslaugomis, kurios garantuoja Jūsų finansinį saugumą.
+
+Siūlome konkurencingas draudimo kainas, priklausomai nuo krovinio tipo, pristatymo maršruto ir būdo
+transporto.
