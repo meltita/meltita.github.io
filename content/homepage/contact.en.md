@@ -8,6 +8,6 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+370 623 21708](tel:+37062321708)
 
-{{<icon class="fa fa-envelope">}} MELTITA, UAB
+{{<icon class="fa fa-envelope">}}&nbsp;MELTITA, UAB
 
 Metalo str. 9, LT-02190 Vilnius, Lithuania
