@@ -5,7 +5,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "lt"
 
-# The name of this wonderful theme ;-).
+# The name of this wonderful theme.
 theme = "hugo-scroll"
 
 # The browser tab name
