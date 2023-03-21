@@ -6,12 +6,10 @@ header_menu: false
 
 ![Jūrų transportas](images/stock-vector-marine-port-shipping-transportation-and-ocean-logistic-flat-banner-cargo-ships-and-freight-1542787196.jpg)
 
-Jūrų krovinių logistika nuėjo ilgą kelią nuo pirmųjų jūrų laivybos dienų
-transporto.
+Krovinių gabenimas vandeniu tapo itin pažangus nuo laivybos ištakų pradžios. 
 
-Prekių pristatymas laivu yra vienas seniausių ir ekonomiškiausių
-racionalios transporto priemonės.
+Prekių gabenimas laivais yra vienas seniausių ir ekonomiškiausių prekių pristatymo būdų. 
 
-Upių laivyba išgyvena nykimo laikotarpį, tačiau tarptautinis jūrų transportas labai išaugo.
+Upių laivyba išgyvena nykimo laikotarpį, tačiau tarptautinis jūrų transportas labai išaugo. 
 
-Šiandien daugelis pasaulinių įmonių vis dar remiasi jūrų krovinių ekspedijavimu.
+Šiandien daugelis pasaulinių įmonių vis dar naudojasi krovinių gabenimu vandeniu.

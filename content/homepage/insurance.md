@@ -6,10 +6,8 @@ header_menu: false
 
 ![Insurance](images/stock-vector-shipwreck-of-cargo-ship-vessel-sinking-in-ocean-with-goods-containers-going-under-water-surface-on-1539104057.jpg)
 
-Savo klientams visada rekomenduojame įsigyti transporto draudimą, kurį
-garantuoti galimų krovinio nuostolių ir sugadinimų atlyginimą.
+Savo klientams visada rekomenduojame įsigyti krovinių draudimą, kuris garantuoja kompensaciją dėl galimo krovinio praradimo ir sugadinimo. 
 
-Naudojamės pirmaujančių draudimo paslaugų teikėjų paslaugomis, kurios garantuoja Jūsų finansinį saugumą.
+Mes bendradarbiaujame su didžiausiomis draudimo įmonėmis, kurios užtikrina jūsų finansinį saugumą. 
 
-Siūlome konkurencingas draudimo kainas, priklausomai nuo krovinio tipo, pristatymo maršruto ir būdo
-transporto.
+Siūlome konkurencingus draudimo tarifus priklausomai nuo krovinio tipo, pristatymo maršruto ir transporto rūšies.

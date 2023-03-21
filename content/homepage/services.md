@@ -4,4 +4,4 @@ weight: 2
 header_menu: true
 ---
 
-Mes siūlome visapusiškus logistikos sprendimus, kuriuos lemia aukšto lygio atskaitomybė ir kompetencija.
+Mes atsakingai ir profesionaliai pasiūlysime geriausius logistikos sprendimus.

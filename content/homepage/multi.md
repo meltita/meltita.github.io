@@ -6,8 +6,6 @@ header_menu: false
 
 ![Multimodalinis krovinių gabenimas](images/stock-photo-global-logistics-network-flat-isometric-illustration-set-of-air-cargo-trucking-rail-transportation-1057424468.jpg)
 
-Multimodaliniai kroviniai išnaudoja įvairių krovinių rūšių derinimo privalumus
-transportuoti ir naudotis visomis logistikos infrastruktūromis (terminalais,
-konsolidaciniai sandėliai, jūrų uostai, oro uostai).
+Multimodalinis krovinių gabenimas leidžia gabenti krovinius skirtingomis transporto priemonėmis ir naudoti visą logistikos infrastruktūrą (terminalus, konsolidacinius sandėlius, jūrų uostus, oro uostus). 
 
-Tai reiškia aukščiausio lygio profesionalumą ir susitelkimą iš komandos, užsiimančios multimodalinių krovinių ekspedijavimu.
+Tai garantuoja komandos, užsiimančios multimodalinių krovinių ekspedijavimu, aukščiausio lygio profesionalumą ir susitelkimą.

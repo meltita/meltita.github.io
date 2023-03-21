@@ -4,11 +4,10 @@ weight: 1
 header_menu: true
 ---
 
-Mūsų jauna ir dinamiška įmonė yra integruota į daugelį pasaulinių pervežimų
-tinklai.
+Mūsų jauna ir dinamiška įmonė yra dalis daugelio pasaulinių transporto tinklų. 
 
-Mūsų patyrę darbuotojai užtikrina efektyviausią ir efektyviausią tiekimo grandinę
-sprendimus savo klientams.
+Mūsų patyrę darbuotojai teikia efektyvius ir rezultatyvius tiekimo grandinės sprendimus savo klientams.
 
-Įvairaus sudėtingumo siuntas organizuojame įvairiomis priemonėmis
-gabenti ir pristatyti prekes į ir iš beveik bet kurios pasaulio vietos.
+Mes organizuojame įvairių krovinių gabenimą skirtingų rūšių transporto priemonėmis ir pristatome prekes į ir iš beveik bet kurios pasaulio vietos.
+
+Mūsų viena iš pagrindinių vertybių – atsakingas požiūris į partnerius, klientus bei gabenamus krovinius. 
