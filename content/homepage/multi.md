@@ -1,11 +1,13 @@
 ---
-title: "Multimodaliniai pervežimai"
+title: "Multimodal freight"
 weight: 6
 header_menu: false
 ---
 
-![Multimodalinis krovinių gabenimas](images/stock-photo-global-logistics-network-flat-isometric-illustration-set-of-air-cargo-trucking-rail-transportation-1057424468.jpg)
+![Multimodal freight](images/stock-photo-global-logistics-network-flat-isometric-illustration-set-of-air-cargo-trucking-rail-transportation-1057424468.jpg)
 
-Multimodalinis krovinių gabenimas leidžia gabenti krovinius skirtingomis transporto priemonėmis ir naudoti visą logistikos infrastruktūrą (terminalus, konsolidacinius sandėlius, jūrų uostus, oro uostus). 
+Multimodal freight takes advantage of combining various modes of cargo
+transportation and using all manner of logistics infrastructure (terminals,
+consolidation warehouses, sea ports, airports). 
 
-Tai garantuoja komandos, užsiimančios multimodalinių krovinių ekspedijavimu, aukščiausio lygio profesionalumą ir susitelkimą.
+It implies the highest level of professionalism and consolidation from a team involved in forwarding multimodal cargo.

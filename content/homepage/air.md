@@ -1,15 +1,17 @@
 ---
-title: "Oro transportas"
+title: "Air freight"
 weight: 3
 header_menu: false
 ---
 
-![oro transportas](images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
+![Air freight](images/stock-vector-loading-freight-containers-in-a-cargo-plane-transportation-and-delivery-logistic-shipping-316365914.jpg)
 
-Krovinių gabenimas oro transporto turi nemažai privalumų jūsų verslui. Žinoma, kad greitis – vienas iš jų. 
+Airfreight can provide several key advantages for your business. Speed is the most obvious one. 
 
-Krovinių gabenimas oro transportu yra greičiausias būdas pristatyti jūsų krovinį į paskirties vietą.
+Airfreight is the fastest way to deliver your cargo to the required
+destination. 
 
-Siūlome aukščiausios klasės krovinių gabenimą oro transportu visų tipų kroviniams (įskaitant pavojingus krovinius) iš ir į įvairias vietas visame pasaulyje. 
+We offer first-rate airfreight shipping for all types of cargo (including
+Dangerous Goods) from and to various destinations around the world. 
 
-Savo klientams galime pasiūlyti visapusiškus tiekimo grandinių valdymo sprendimus.
+We can provide our clients with complete solutions for managing their supply chains.

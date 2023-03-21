@@ -1,13 +1,17 @@
 ---
-title: "Apie mus"
+title: "About us"
 weight: 1
 header_menu: true
 ---
 
-Mūsų jauna ir dinamiška įmonė yra dalis daugelio pasaulinių transporto tinklų. 
+Our young and dynamic company is integrated in many global transportation
+networks. 
 
-Mūsų patyrę darbuotojai teikia efektyvius ir rezultatyvius tiekimo grandinės sprendimus savo klientams.
+Our experienced staff provide the most efficient, effective supply chain
+solutions for their clients.
 
-Mes organizuojame įvairių krovinių gabenimą skirtingų rūšių transporto priemonėmis ir pristatome prekes į ir iš beveik bet kurios pasaulio vietos.
+We arrange shipments of various degree of complexity by different means of
+transport and deliver goods to and from almost any part of the World.
 
-Mūsų viena iš pagrindinių vertybių – atsakingas požiūris į partnerius, klientus bei gabenamus krovinius. 
+Careful attitude towards our partners, clients and their cargo is one of our top
+priorities.

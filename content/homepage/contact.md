@@ -1,5 +1,5 @@
 ---
-title: "Kontaktas"
+title: "Contact"
 weight: 9
 header_menu: true
 ---
@@ -10,4 +10,4 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;MELTITA, UAB
 
-Metalo g. 9, LT-02190 Vilnius, Lietuva
+Metalo str. 9, LT-02190 Vilnius, Lithuania

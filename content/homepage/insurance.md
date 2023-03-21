@@ -1,13 +1,15 @@
 ---
-title: "Draudimas"
+title: "Insurance"
 weight: 8
 header_menu: false
 ---
 
 ![Insurance](images/stock-vector-shipwreck-of-cargo-ship-vessel-sinking-in-ocean-with-goods-containers-going-under-water-surface-on-1539104057.jpg)
 
-Savo klientams visada rekomenduojame įsigyti krovinių draudimą, kuris garantuoja kompensaciją dėl galimo krovinio praradimo ir sugadinimo. 
+We always recommend our customers to buy transportation insurance which
+guarantee restitution of possible losses and damages of cargo. 
 
-Mes bendradarbiaujame su didžiausiomis draudimo įmonėmis, kurios užtikrina jūsų finansinį saugumą. 
+We use services of the leading insurance providers which guarantee your financial safety. 
 
-Siūlome konkurencingus draudimo tarifus priklausomai nuo krovinio tipo, pristatymo maršruto ir transporto rūšies.
+We offer competitive insurance rates depending on type of cargo, delivery route and mode of
+transport.
