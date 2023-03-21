@@ -3,6 +3,8 @@ baseURL = "https://meltita.com"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
+googleAnalytics="G-V96381NVBS"
+
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme.
